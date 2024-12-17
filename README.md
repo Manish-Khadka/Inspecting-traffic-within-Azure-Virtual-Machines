@@ -1,4 +1,4 @@
-# Inspecting-traffic-within-Azure-Virtual-Machines
+# Inspecting Traffic within Azure Virtual Machines
 This repository features a lab I completed in Azure focused on analyzing network traffic.
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
